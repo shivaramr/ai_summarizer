@@ -32,7 +32,7 @@ const Demo = () => {
       const updatedAllArticles = [
         newArticle,
         ...allArticles.filter((item) => item.url !== article.url),
-      ];
+      ].slice(0, 3);
       setAllArticles(updatedAllArticles);
       setArticle(newArticle);
       localStorage.setItem("allArticles", JSON.stringify(updatedAllArticles));
