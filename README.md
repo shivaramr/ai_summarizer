@@ -3,9 +3,9 @@
 
 The AI summarizer website is a web application built using Reactjs and Tailwind CSS that utilizes artificial intelligence to generate concise summaries of the information available in a specific blog url.
 
-You can access this website at: https://shivaramr.github.io/ai_summarizer/
-You can have a look at the demo of this website at: https://www.youtube.com/watch?v=kezxCGWxxIs
-This website was developed refering to the tutorial: https://www.youtube.com/watch?v=vpvtZZi5ZWk
+- You can access this website at: https://shivaramr.github.io/ai_summarizer/
+- You can have a look at the demo of this website at: https://www.youtube.com/watch?v=kezxCGWxxIs
+- This website was developed refering to the tutorial: https://www.youtube.com/watch?v=vpvtZZi5ZWk
 
 Kindly requesting to change the API key, I have shared it in my env file for easy reference, a specific key has only 100 hits of access, its free and you can get it at rapidapi.com
 
